@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392428493933",
+    "project_id": "hellohilt-firebase",
+    "storage_bucket": "hellohilt-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392428493933:android:d13021baff8dac707ff364",
+        "android_client_info": {
+          "package_name": "com.ahs.hellohilt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VupcoIyo4-Gm4lespdx1d4GEGdPuYhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
